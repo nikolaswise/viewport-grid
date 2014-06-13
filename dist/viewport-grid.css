@@ -324,360 +324,315 @@
 @media screen and (max-width: 479px) {
   .phone-pre-0 {
     position: relative;
-    left: -0.1vw !important;
-    margin-right: -0.1vw !important; }
+    left: -0.1vw !important; }
 
   .phone-post-0 {
     margin-right: -0.1vw !important; }
 
   .phone-pre-1 {
     position: relative;
-    left: 14.9vw !important;
-    margin-right: 14.9vw !important; }
+    left: 14.9vw !important; }
 
   .phone-post-1 {
     margin-right: 14.9vw !important; }
 
   .phone-pre-2 {
     position: relative;
-    left: 29.9vw !important;
-    margin-right: 29.9vw !important; }
+    left: 29.9vw !important; }
 
   .phone-post-2 {
     margin-right: 29.9vw !important; }
 
   .phone-pre-3 {
     position: relative;
-    left: 44.9vw !important;
-    margin-right: 44.9vw !important; }
+    left: 44.9vw !important; }
 
   .phone-post-3 {
     margin-right: 44.9vw !important; }
 
   .phone-pre-4 {
     position: relative;
-    left: 59.9vw !important;
-    margin-right: 59.9vw !important; }
+    left: 59.9vw !important; }
 
   .phone-post-4 {
     margin-right: 59.9vw !important; }
 
   .phone-pre-5 {
     position: relative;
-    left: 74.9vw !important;
-    margin-right: 74.9vw !important; }
+    left: 74.9vw !important; }
 
   .phone-post-5 {
     margin-right: 74.9vw !important; }
 
   .phone-pre-6 {
     position: relative;
-    left: 89.9vw !important;
-    margin-right: 89.9vw !important; }
+    left: 89.9vw !important; }
 
   .phone-post-6 {
     margin-right: 89.9vw !important; } }
 @media screen and (max-width: 859px) {
   .tablet-pre-0 {
     position: relative;
-    left: -0.1vw !important;
-    margin-right: -0.1vw !important; }
+    left: -0.1vw !important; }
 
   .tablet-post-0 {
     margin-right: -0.1vw !important; }
 
   .tablet-pre-1 {
     position: relative;
-    left: 7.4vw !important;
-    margin-right: 7.4vw !important; }
+    left: 7.4vw !important; }
 
   .tablet-post-1 {
     margin-right: 7.4vw !important; }
 
   .tablet-pre-2 {
     position: relative;
-    left: 14.9vw !important;
-    margin-right: 14.9vw !important; }
+    left: 14.9vw !important; }
 
   .tablet-post-2 {
     margin-right: 14.9vw !important; }
 
   .tablet-pre-3 {
     position: relative;
-    left: 22.4vw !important;
-    margin-right: 22.4vw !important; }
+    left: 22.4vw !important; }
 
   .tablet-post-3 {
     margin-right: 22.4vw !important; }
 
   .tablet-pre-4 {
     position: relative;
-    left: 29.9vw !important;
-    margin-right: 29.9vw !important; }
+    left: 29.9vw !important; }
 
   .tablet-post-4 {
     margin-right: 29.9vw !important; }
 
   .tablet-pre-5 {
     position: relative;
-    left: 37.4vw !important;
-    margin-right: 37.4vw !important; }
+    left: 37.4vw !important; }
 
   .tablet-post-5 {
     margin-right: 37.4vw !important; }
 
   .tablet-pre-6 {
     position: relative;
-    left: 44.9vw !important;
-    margin-right: 44.9vw !important; }
+    left: 44.9vw !important; }
 
   .tablet-post-6 {
     margin-right: 44.9vw !important; }
 
   .tablet-pre-7 {
     position: relative;
-    left: 52.4vw !important;
-    margin-right: 52.4vw !important; }
+    left: 52.4vw !important; }
 
   .tablet-post-7 {
     margin-right: 52.4vw !important; }
 
   .tablet-pre-8 {
     position: relative;
-    left: 59.9vw !important;
-    margin-right: 59.9vw !important; }
+    left: 59.9vw !important; }
 
   .tablet-post-8 {
     margin-right: 59.9vw !important; }
 
   .tablet-pre-9 {
     position: relative;
-    left: 67.4vw !important;
-    margin-right: 67.4vw !important; }
+    left: 67.4vw !important; }
 
   .tablet-post-9 {
     margin-right: 67.4vw !important; }
 
   .tablet-pre-10 {
     position: relative;
-    left: 74.9vw !important;
-    margin-right: 74.9vw !important; }
+    left: 74.9vw !important; }
 
   .tablet-post-10 {
     margin-right: 74.9vw !important; }
 
   .tablet-pre-11 {
     position: relative;
-    left: 82.4vw !important;
-    margin-right: 82.4vw !important; }
+    left: 82.4vw !important; }
 
   .tablet-post-11 {
     margin-right: 82.4vw !important; }
 
   .tablet-pre-12 {
     position: relative;
-    left: 89.9vw !important;
-    margin-right: 89.9vw !important; }
+    left: 89.9vw !important; }
 
   .tablet-post-12 {
     margin-right: 89.9vw !important; } }
 @media screen and (min-width: 860px) {
   .pre-0 {
     position: relative;
-    left: -0.1vw !important;
-    margin-right: -0.1vw !important; }
+    left: -0.1vw !important; }
 
   .post-0 {
     margin-right: -0.1vw !important; }
 
   .pre-1 {
     position: relative;
-    left: 3.65vw !important;
-    margin-right: 3.65vw !important; }
+    left: 3.65vw !important; }
 
   .post-1 {
     margin-right: 3.65vw !important; }
 
   .pre-2 {
     position: relative;
-    left: 7.4vw !important;
-    margin-right: 7.4vw !important; }
+    left: 7.4vw !important; }
 
   .post-2 {
     margin-right: 7.4vw !important; }
 
   .pre-3 {
     position: relative;
-    left: 11.15vw !important;
-    margin-right: 11.15vw !important; }
+    left: 11.15vw !important; }
 
   .post-3 {
     margin-right: 11.15vw !important; }
 
   .pre-4 {
     position: relative;
-    left: 14.9vw !important;
-    margin-right: 14.9vw !important; }
+    left: 14.9vw !important; }
 
   .post-4 {
     margin-right: 14.9vw !important; }
 
   .pre-5 {
     position: relative;
-    left: 18.65vw !important;
-    margin-right: 18.65vw !important; }
+    left: 18.65vw !important; }
 
   .post-5 {
     margin-right: 18.65vw !important; }
 
   .pre-6 {
     position: relative;
-    left: 22.4vw !important;
-    margin-right: 22.4vw !important; }
+    left: 22.4vw !important; }
 
   .post-6 {
     margin-right: 22.4vw !important; }
 
   .pre-7 {
     position: relative;
-    left: 26.15vw !important;
-    margin-right: 26.15vw !important; }
+    left: 26.15vw !important; }
 
   .post-7 {
     margin-right: 26.15vw !important; }
 
   .pre-8 {
     position: relative;
-    left: 29.9vw !important;
-    margin-right: 29.9vw !important; }
+    left: 29.9vw !important; }
 
   .post-8 {
     margin-right: 29.9vw !important; }
 
   .pre-9 {
     position: relative;
-    left: 33.65vw !important;
-    margin-right: 33.65vw !important; }
+    left: 33.65vw !important; }
 
   .post-9 {
     margin-right: 33.65vw !important; }
 
   .pre-10 {
     position: relative;
-    left: 37.4vw !important;
-    margin-right: 37.4vw !important; }
+    left: 37.4vw !important; }
 
   .post-10 {
     margin-right: 37.4vw !important; }
 
   .pre-11 {
     position: relative;
-    left: 41.15vw !important;
-    margin-right: 41.15vw !important; }
+    left: 41.15vw !important; }
 
   .post-11 {
     margin-right: 41.15vw !important; }
 
   .pre-12 {
     position: relative;
-    left: 44.9vw !important;
-    margin-right: 44.9vw !important; }
+    left: 44.9vw !important; }
 
   .post-12 {
     margin-right: 44.9vw !important; }
 
   .pre-13 {
     position: relative;
-    left: 48.65vw !important;
-    margin-right: 48.65vw !important; }
+    left: 48.65vw !important; }
 
   .post-13 {
     margin-right: 48.65vw !important; }
 
   .pre-14 {
     position: relative;
-    left: 52.4vw !important;
-    margin-right: 52.4vw !important; }
+    left: 52.4vw !important; }
 
   .post-14 {
     margin-right: 52.4vw !important; }
 
   .pre-15 {
     position: relative;
-    left: 56.15vw !important;
-    margin-right: 56.15vw !important; }
+    left: 56.15vw !important; }
 
   .post-15 {
     margin-right: 56.15vw !important; }
 
   .pre-16 {
     position: relative;
-    left: 59.9vw !important;
-    margin-right: 59.9vw !important; }
+    left: 59.9vw !important; }
 
   .post-16 {
     margin-right: 59.9vw !important; }
 
   .pre-17 {
     position: relative;
-    left: 63.65vw !important;
-    margin-right: 63.65vw !important; }
+    left: 63.65vw !important; }
 
   .post-17 {
     margin-right: 63.65vw !important; }
 
   .pre-18 {
     position: relative;
-    left: 67.4vw !important;
-    margin-right: 67.4vw !important; }
+    left: 67.4vw !important; }
 
   .post-18 {
     margin-right: 67.4vw !important; }
 
   .pre-19 {
     position: relative;
-    left: 71.15vw !important;
-    margin-right: 71.15vw !important; }
+    left: 71.15vw !important; }
 
   .post-19 {
     margin-right: 71.15vw !important; }
 
   .pre-20 {
     position: relative;
-    left: 74.9vw !important;
-    margin-right: 74.9vw !important; }
+    left: 74.9vw !important; }
 
   .post-20 {
     margin-right: 74.9vw !important; }
 
   .pre-21 {
     position: relative;
-    left: 78.65vw !important;
-    margin-right: 78.65vw !important; }
+    left: 78.65vw !important; }
 
   .post-21 {
     margin-right: 78.65vw !important; }
 
   .pre-22 {
     position: relative;
-    left: 82.4vw !important;
-    margin-right: 82.4vw !important; }
+    left: 82.4vw !important; }
 
   .post-22 {
     margin-right: 82.4vw !important; }
 
   .pre-23 {
     position: relative;
-    left: 86.15vw !important;
-    margin-right: 86.15vw !important; }
+    left: 86.15vw !important; }
 
   .post-23 {
     margin-right: 86.15vw !important; }
 
   .pre-24 {
     position: relative;
-    left: 89.9vw !important;
-    margin-right: 89.9vw !important; }
+    left: 89.9vw !important; }
 
   .post-24 {
     margin-right: 89.9vw !important; } }
