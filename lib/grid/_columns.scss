@@ -15,15 +15,32 @@
 [class*="column-"] {
   @include box-sizing(border-box);
   width: $container-width;
-  padding: 0 $column-gutter / 2;
+  // padding: 0 $column-gutter / 2;
   margin: 0;
   float: left;
-  [class*="column-"]:first-of-type {
-    margin-left: -$column-gutter / 2;
+  position: relative;
+  &:before {
+    content: '';
+    display: inline-block;
+    background-color: rgba(red, 0.2);
+    float: left;
+    height: 100%;
+    width: $column-gutter / 2;
   }
-  [class*="column-"]:last-of-type {
-    margin-right: -$column-gutter / 2;
+  span {
+    // float: right;
+    position: relative;
+    left: 0.5rem;
+    width: -webkit-calc(100% - 1rem);
+    width: calc(100% - 1rem);
   }
+  // Nested column gutter clearing
+  // [class*="column-"]:first-of-type {
+  //   margin-left: -$column-gutter / 2;
+  // }
+  // [class*="column-"]:last-of-type {
+  //   margin-right: -$column-gutter / 2;
+  // }
   &:last-of-type { @extend %clearfix; }
 }
 
