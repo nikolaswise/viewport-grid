@@ -1,4 +1,4 @@
-/* Viewport Grid - 1.0.1 
+/* Viewport Grid - 1.0.3 
 *   https://github.com/esripdx/viewport-grid
 *   Licensed ISC */
 
@@ -130,10 +130,10 @@ nav {
   color: blue;
   border-top: 6px solid blue;
   border-bottom: 6px solid blue; }
-  @media screen and (max-width: 482px) {
-    .project-description {
-      font-size: 1rem; } }
 
+@media screen and (min-width: 482px) {
+  .project-description {
+    font-size: 1rem; } }
 body {
   background-color: rgba(253, 246, 227, 0.8); }
 
